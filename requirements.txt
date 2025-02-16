@@ -1,0 +1,34 @@
+# Backend
+fastapi
+uvicorn
+langchain
+openai
+faiss-cpu
+pinecone-client
+sentence-transformers
+huggingface-hub
+pydantic
+numpy
+scipy
+
+# Code Generation & Execution
+openai
+transformers
+jupyter
+nbconvert
+google-colab
+
+# Query Routing (Intent Classification)
+spacy
+regex
+scikit-learn
+torch
+
+# Web Interface (GARDO)
+gardo
+streamlit
+
+# Additional Utilities
+requests
+python-dotenv
+tqdm
