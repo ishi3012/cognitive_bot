@@ -2,7 +2,7 @@
 fastapi
 uvicorn
 langchain
-openai
+
 faiss-cpu
 pinecone-client
 sentence-transformers
@@ -10,13 +10,14 @@ huggingface-hub
 pydantic
 numpy
 scipy
-
+python-dotenv
 # Code Generation & Execution
 openai
 transformers
 jupyter
 nbconvert
-google-colab
+accelerate
+# google-colab
 
 # Query Routing (Intent Classification)
 spacy
@@ -25,10 +26,20 @@ scikit-learn
 torch
 
 # Web Interface (GARDO)
-gardo
+# gardo
 streamlit
 
 # Additional Utilities
 requests
 python-dotenv
 tqdm
+
+# langchain
+langchain
+langchain-community
+langchain-huggingface
+
+pdfminer.six
+unstructured
+
+sentencepiece

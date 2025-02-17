@@ -2,6 +2,11 @@
 
 ## 🚀 AI Tutor - Knowledge Retrieval & Coding Assistance
 Cognitive Bot is an AI-powered learning assistant that provides structured learning paths, voice-enabled interactions, hands-on coding exercises, and personalized study plans. This project is built to help users explore AI concepts through a **Retrieval-Augmented Generation (RAG) system** and **AI-based coding assistance**.
+### System Design 
+
+![System Design](assets/system_design.png)
+
+
 
 ## 🌟 Features Overview
 ### ✅ **MVP** - Core AI Learning Platform
