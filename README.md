@@ -99,8 +99,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## 📬 Contact
 Feel free to reach out for questions or collaborations:
 
-Email: shilpa.musale02@gmail.com  
-GitHub: [Shilpa Musale](https://github.com/ishi3012)
+[Email](shilpa.musale02@gmail.com)  
+
 
 **Stay tuned for future updates!** 🚀
 
